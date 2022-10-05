@@ -1,5 +1,5 @@
 const UsersModel = require("../model/UsersModel");
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 /*
   d = 12a
   e = 22b
